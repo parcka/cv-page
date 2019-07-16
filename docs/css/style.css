@@ -1059,6 +1059,14 @@ a {
     display: inline-block;
 }
 
+.resume .item p a {
+    font-size: 13px;
+    font-family: 'Dosis', sans-serif;
+    color: #e6e6e6;
+    margin-bottom: 16px;
+    display: inline-block;
+}
+
 .resume p {
     line-height: 27px;
     margin: 0;
